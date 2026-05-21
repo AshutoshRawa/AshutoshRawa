@@ -3,17 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Ashutosh%20Rawat&fontSize=42&fontColor=e2e8f0&animation=twinkling" alt="header banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=3rd+Year+CSE+%40+LPU;Learning+MERN+%26+AWS;Building+ProjectMind;Vibe+Coding+%E2%80%A2+Shipping+%E2%80%A2+Learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+%26+AWS;Building+ProjectMind;Learning+Python+Along+the+Way;Vibe+Coding+%E2%80%A2+Shipping+%E2%80%A2+Learning" alt="Typing animation" />
 </a>
 
 <br/><br/>
 
 **B.Tech Computer Science & Engineering** · Lovely Professional University  
-MERN learner · AWS explorer · AI systems & developer tooling
+Full-stack MERN · AWS · building real products
 
 <br/>
 
-[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%2B%20Systems-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8)](#about-me)
+[![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AWS-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8)](#about-me)
 [![Status](https://img.shields.io/badge/Status-Actively%20Building-0f172a?style=for-the-badge&logo=rocket&logoColor=22c55e)](#currently-building)
 [![Location](https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=map-pin&logoColor=f97316)](#)
 
@@ -25,9 +25,9 @@ MERN learner · AWS explorer · AI systems & developer tooling
 
 I'm a **3rd-year B.Tech CSE student** at **Lovely Professional University**, learning by **building real projects**—not just tutorials.
 
-Right now I'm focused on the **MERN stack**, **AWS** for deployment, and **AI-assisted developer workflows**—autonomous tooling, documentation systems, and intelligent applications.
+**My main domain is full-stack development and AWS** — MERN apps, REST APIs, deployment, and cloud fundamentals. That's what I'm actively growing toward internships and product work.
 
-I also have earlier Python work (DSA, neural nets from scratch, applied ML) that shaped how I think about data and systems. I'm growing into full-stack and backend architecture through hands-on shipping.
+I'm also building [**ProjectMind**](https://github.com/AshutoshRawa/ProjectMInd), which uses **Python** for its backend engines. I'm **learning Python and systems design through that project** — not positioning myself as an ML engineer. The AI/memory parts are exploratory; the day-to-day focus stays **full-stack + cloud**.
 
 ```text
   learn → build → ship → reflect → repeat
@@ -39,16 +39,21 @@ I also have earlier Python work (DSA, neural nets from scratch, applied ML) that
 
 | Project | Description |
 |---------|-------------|
-| [**ProjectMind**](https://github.com/AshutoshRawa/ProjectMInd) | Local-first developer intelligence — watches codebases, debounced filesystem events, modular Python engines, Obsidian-compatible knowledge vault |
+| [**ProjectMind**](https://github.com/AshutoshRawa/ProjectMInd) | Developer intelligence tool I'm building in **Python** (watchers, config, docs pipeline) — **learning Python & backend patterns while shipping**; my career focus remains **full-stack MERN + AWS** |
 
 ---
 
 ## Currently learning
 
-- **MERN** — React, Express, MongoDB, API design *(projects coming soon)*
-- **AWS** — EC2, S3, IAM, deploying apps to the cloud
-- **Backend & systems** — watchers, config-driven services, scalable patterns
-- **AI dev tooling** — local models, project memory, documentation automation
+**Primary (my domain)**
+
+- **MERN** — React, Express, MongoDB, full-stack app structure *(more repos coming)*
+- **AWS** — EC2, S3, IAM, deploying and hosting full-stack apps
+
+**Through ProjectMind (learning, not expertise)**
+
+- **Python** — modular backends, filesystem watchers, local-first tooling
+- **AI dev workflows** — documentation automation, project memory *(exploring as I build)*
 
 ---
 
@@ -72,12 +77,12 @@ I also have earlier Python work (DSA, neural nets from scratch, applied ML) that
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### Python & systems
+### Learning via ProjectMind
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Learning-64748b?style=for-the-badge" alt="Learning"/>
   <img src="https://img.shields.io/badge/AI Tooling-0f172a?style=for-the-badge&logo=openai&logoColor=a78bfa" alt="AI Tooling"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 </p>
 
 ---
@@ -86,9 +91,11 @@ I also have earlier Python work (DSA, neural nets from scratch, applied ML) that
 
 ### ProjectMind
 
-**Autonomous developer intelligence & documentation engine**
+**Developer intelligence & documentation engine** *(active — Python, learning in public)*
 
-Monitors external software projects and builds architecture understanding, self-updating documentation, and Obsidian-compatible knowledge graphs. Shipped: foundation engine + filesystem watcher (Python, modular design).
+A side systems project where I'm learning **Python backends** while building something useful: codebase watching, modular engines, and docs/memory pipelines. **Not my primary stack** — I use it to grow engineering depth; **MERN + AWS** is what I'm targeting for roles and internships.
+
+`Python` · `learning` · `watchers` · `local-first` · `Obsidian`
 
 [View ProjectMind →](https://github.com/AshutoshRawa/ProjectMInd)
 
@@ -105,7 +112,7 @@ Monitors external software projects and builds architecture understanding, self-
 
 ## Builder mindset
 
-I **vibe code**: prototype fast, keep code readable, ship something real, then refine. I'm a **student developer**—curious about advanced systems, honest about my level, and improving through projects and experimentation.
+I **vibe code**: prototype fast, keep code readable, ship something real, then refine. I'm a **student full-stack developer**—honest about what I'm learning (including Python on ProjectMind), serious about **MERN + AWS**, and improving through real projects.
 
 ---
 
