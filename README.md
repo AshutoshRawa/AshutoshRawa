@@ -23,7 +23,7 @@ Full-stack MERN · **Microsoft Azure** · building real products
 [![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%2B%20Azure-0f172a?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)](#about-me)
 [![Status](https://img.shields.io/badge/Status-Actively%20Building-0f172a?style=for-the-badge&logo=rocket&logoColor=22c55e)](#currently-building)
 [![Location](https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=map-pin&logoColor=f97316)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#leetcode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-@Xbox360-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Xbox360/)
 
 <br/>
 
@@ -118,19 +118,17 @@ I'm also building [**ProjectMind**](https://github.com/AshutoshRawa/ProjectMInd)
 
 <div align="center">
 
-<a href="https://leetcode.com/u/AshutoshRawa/">
-  <img src="https://img.shields.io/badge/LeetCode-@AshutoshRawa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+<a href="https://leetcode.com/u/Xbox360/">
+  <img src="https://img.shields.io/badge/LeetCode-@Xbox360-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/AshutoshRawa/">
-  <img src="https://leetcard.jacoblin.cool/AshutoshRawa?theme=dark&font=Ubuntu&ext=contest&border=3&shadow=3&radius=20" alt="LeetCode stats card" width="450"/>
+<a href="https://leetcode.com/u/Xbox360/">
+  <img src="https://leetcard.jacoblin.cool/Xbox360?theme=dark&font=Ubuntu&ext=contest&border=3&shadow=3&radius=20" alt="LeetCode stats card" width="450"/>
 </a>
 
 </div>
-
-> If the card above does not load, update the username in this README to match your LeetCode handle.
 
 <img src="https://user-images.githubusercontent.com/74081442/216122138-9c947427-6ef6-4f56-b2dc-45d6375dacd0.gif" width="100%" alt="divider"/>
 
